@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maheshvaryani43
-- 👀 I’m interested in developement.
+- 👀 I’m interested in development
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
